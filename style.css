@@ -86,7 +86,7 @@ strong {
 .flecha {
   max-width: 50%;
 }
-/*@media en relacion al la capacidad de flex-wrap el "container__card "*/
+/*@media en relacion al la capacidad de flex-wrap del "container__card "*/
 @media only screen and (max-width: 885px) {
   .container__card {
     flex-basis: 445px;
